@@ -1,4 +1,4 @@
-# Energy Data Analysis and Visualization Project
+# Global Energy Dashboard
 
 ## Overview
 This project involves a comprehensive analysis and visualization of global energy data. The objective is to uncover insights into energy production and consumption patterns across different countries and over various time periods. 
